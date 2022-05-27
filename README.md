@@ -27,6 +27,25 @@ from sklearn.preprocessing import StandardScaler
 
 ---
 
+# **Usage**
+## Elbow method to determine optimal number of clusters prior to PCA analysis
+
+![Elboe Before.](Resources/elbow_before_PCA.png)
+
+## Elbow method after PCA analysis was performed:
+
+![Elbow After.](Resources/elbow_after_PCA.png)
+
+## KMeans scatter plot prior to PCA
+
+![Scatter plot before PCA.](Resources/KMeans_before_PCA.png)
+
+## KMeans scatter plot after PCA
+
+![Scatter plot before PCA.](Resources/KMeans_after_PCA.png)
+
+---
+
 # **Contributors**
 
 Developed by:
